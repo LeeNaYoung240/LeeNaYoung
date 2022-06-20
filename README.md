@@ -18,4 +18,14 @@
 
 raspberry 안 node-red에서 audio output으로 화면에 수행하는 동작을 출력, guage로 가속도 값을 표현, chart로 가속도 값을 그래프로 표현하였습니다.
 
+동작을 가만히 있을 경우 - audio output: standing 표시, gauge : 분홍색, chart : 낮은 위치
+
+동작을 천천히 움직일 경우 - audio output : walking 표시, gauge : 노란색, chart : 중간 위치
+            
+동작을 빠르게 움직일 경우 - audio output : running 표시, gauge : 빨간색, chart : 높은 위치
+         
+
+<img src="https://user-images.githubusercontent.com/107848521/174663552-4bd62b74-7609-4722-92fe-294fbfae2708.png" width="90%"></img>
+
+동작을 멈췄을 때의 경우, standing을 출력하는 모습을 보여줍니다.
 
