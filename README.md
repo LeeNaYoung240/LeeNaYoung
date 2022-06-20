@@ -11,10 +11,10 @@
 
 <img src="https://user-images.githubusercontent.com/107848521/174663403-cb26d100-f062-4def-970f-39256e80fffc.png" width="90%"></img>
 <img src="https://user-images.githubusercontent.com/107848521/174663410-1e946dde-a5d1-480c-9355-1c01e862142c.png" width="90%"></img>
-<img src="https://user-images.githubusercontent.com/107848521/174663415-688fb7bf-4242-4f9a-858a-2b51fad1de5a.png" width="90%></img>
+<img src="https://user-images.githubusercontent.com/107848521/174663415-688fb7bf-4242-4f9a-858a-2b51fad1de5a.png" width="90%"></img>
                                                                                                                          
                                                                                                                          
-<img src="https://user-images.githubusercontent.com/107848521/174663533-57799801-db9e-4b2b-a0ca-2aeb99e7b5b0.png" width="90%></img>
+<img src="https://user-images.githubusercontent.com/107848521/174663533-57799801-db9e-4b2b-a0ca-2aeb99e7b5b0.png" width="90%"></img>
 
 raspberry 안 node-red에서 audio output으로 화면에 수행하는 동작을 출력, guage로 가속도 값을 표현, chart로 가속도 값을 그래프로 표현하였습니다.
 
