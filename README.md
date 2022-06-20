@@ -9,3 +9,4 @@
 블록도는 위와 같습니다.
 
 
+<img src="https://user-images.githubusercontent.com/107848521/174663403-cb26d100-f062-4def-970f-39256e80fffc.png" width="90%"></img>
