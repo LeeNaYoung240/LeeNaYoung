@@ -36,3 +36,7 @@ node-red의 회로입니다.
 <img src="https://user-images.githubusercontent.com/107848521/174669227-1716dbde-c6e7-4dc0-8435-14d8580cc525.gif" width="90%"></img>
 
 동작영상입니다.
+
+https://www.youtube.com/watch?v=f7JLlr3njms 
+
+동작영상을 수행한 유튜브 영상 링크를 추가합니다.
