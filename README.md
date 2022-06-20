@@ -32,3 +32,7 @@ raspberry 안 node-red에서 audio output으로 화면에 수행하는 동작을
 <img src="https://user-images.githubusercontent.com/107848521/174663563-5e2617c4-1550-453f-9c3f-7de5edc82916.png" width="90%"></img>
 
 node-red의 회로입니다.
+
+<img src="https://user-images.githubusercontent.com/107848521/174669227-1716dbde-c6e7-4dc0-8435-14d8580cc525.gif" width="90%"></img>
+
+동작영상입니다.
