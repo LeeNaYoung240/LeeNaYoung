@@ -29,3 +29,6 @@ raspberry 안 node-red에서 audio output으로 화면에 수행하는 동작을
 
 동작을 멈췄을 때의 경우, standing을 출력하는 모습을 보여줍니다.
 
+<img src="https://user-images.githubusercontent.com/107848521/174663563-5e2617c4-1550-453f-9c3f-7de5edc82916.png" width="90%"></img>
+
+node-red의 회로입니다.
