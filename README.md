@@ -4,7 +4,7 @@
 
 목차는 블록도 설명, 코드 소개, 동작영상 순서 입니다.
 
-<img src="https://user-images.githubusercontent.com/107848521/174698065-ed74e0ab-73a8-443d-8a67-9e8e85f6145e.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/107848521/174732766-5b3b3f81-cf30-4656-9fdc-8d7741786710.png" width="90%"></img>
 
 블록도는 위와 같습니다.
 
